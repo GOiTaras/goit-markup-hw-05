@@ -598,7 +598,7 @@ flex-grow: 0;
 
 .examples-link {
     border: 1px solid #E7E9FC;
-    transition: border-color var(--transition-hover-timing), box-shadow var(--transition-hover-timing);
+    transition: box-shadow var(--transition-hover-timing);
 }
 
 .examples-link:hover,
